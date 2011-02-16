@@ -1,3 +1,18 @@
+Debian MavenRepo Indexer 
+========================
+
+Debian MavenRepo Indexer is a tool which:
+- index /usr/share/maven-repo (ie. local maven repository on Debian-like distribution)
+- publish indexes (Lucene) of this repository using nexus-indexer component
+- expose some REST services to help query package/classes/artifact relationships
+
+License
+=======
+Debian MavenRepo Indexer is released under Apache 2.0 License
+see LICENSE for full text
+
+References
+==========
 Based on sample code from:
 http://svn.sonatype.org/nexus/trunk/sandbox/nexus-indexer-sample/
 
