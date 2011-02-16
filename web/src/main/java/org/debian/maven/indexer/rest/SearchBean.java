@@ -1,4 +1,4 @@
-package org.debian.maven.indexer.gui;
+package org.debian.maven.indexer.rest;
 
 // Copyright 2010-2011 Damien Raude-Morvan
 //
@@ -23,7 +23,7 @@ import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.QueryParam;
 import javax.ws.rs.core.MediaType;
-import org.debian.maven.indexer.services.SearchService;
+import org.debian.maven.indexer.ejb.SearchService;
 import org.sonatype.nexus.index.ArtifactInfo;
 
 @Singleton

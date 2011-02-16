@@ -1,4 +1,4 @@
-package org.debian.maven.indexer.services;
+package org.debian.maven.indexer.ejb;
 
 // Copyright 2010-2011 Damien Raude-Morvan
 //
