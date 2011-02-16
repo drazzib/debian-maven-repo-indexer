@@ -1,0 +1,6 @@
+Based on sample code from:
+http://svn.sonatype.org/nexus/trunk/sandbox/nexus-indexer-sample/
+
+API doc (outdated - for 2.x Nexus Indexer):
+http://www.sonatype.com/people/2009/06/nexus-indexer-api-part-1/
+http://www.sonatype.com/people/2009/06/nexus-indexer-api-part-2/
